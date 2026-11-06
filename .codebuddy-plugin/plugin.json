@@ -1,0 +1,63 @@
+{
+  "name": "edu-recruitment-management-agent",
+  "version": "1.0.0",
+  "description": "Multi-step education operations assistant for Recruitment Management Agent.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-recruitment-management-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-recruitment-management-agent",
+  "displayName": {
+    "en": "Recruitment Management Agent",
+    "zh": "招聘流程管理"
+  },
+  "profession": {
+    "en": "Recruitment Management Agent",
+    "zh": ""
+  },
+  "displayDescription": {
+    "en": "A multi-step education agent for Recruitment Management Agent, producing reviewable plans with human checkpoints.",
+    "zh": "提供招聘流程管理专业协作，完成多步骤分析、方案设计与复盘，输出可执行成果并保留人工确认。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Recruitment Management Agent.",
+    "zh": "请帮我完成一次招聘流程管理"
+  },
+  "plugin": "edu-recruitment-management-agent",
+  "tags": [
+    {
+      "en": "Human Resources",
+      "zh": "人力资源"
+    },
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    },
+    {
+      "en": "Organization",
+      "zh": "组织管理"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Recruitment Management Agent.",
+      "zh": "请帮我完成一次招聘流程管理"
+    },
+    {
+      "en": "Diagnose my supplied education-business information and propose next steps.",
+      "zh": "请诊断我提供的业务资料并给出下一步行动"
+    },
+    {
+      "en": "Generate 招聘流程设计、阶段门槛、任务分派、沟通节奏、指标和风险升级 with risks and open questions.",
+      "zh": "请生成招聘流程设计、阶段门槛、任务分派、沟通节奏、指标和风险升级，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-recruitment-management-agent",
+  "license": "Apache-2.0"
+}

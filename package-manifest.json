@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-015",
+  "repository_name": "edu-recruitment-management-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-recruitment-management-agent-v1.0.0.zip",
+  "sha256": "9F8670648FF3165882904022E5CFC8FDB90DEF26690F857A1C3134758D2034EA",
+  "bytes": 12663,
+  "entries": [
+    "edu-recruitment-management-agent/.codebuddy-plugin/plugin.json",
+    "edu-recruitment-management-agent/agents/edu-recruitment-management-agent.md",
+    "edu-recruitment-management-agent/avatars/expert.png",
+    "edu-recruitment-management-agent/README.md"
+  ],
+  "built_at": "2026-11-06T22:43:00.0993796+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

@@ -1,0 +1,24 @@
+{
+  "number": 76,
+  "product_id": "JLZ-EDU-AG-015",
+  "chinese_name": "招聘流程管理",
+  "english_name": "Recruitment Management Agent",
+  "repository_name": "edu-recruitment-management-agent",
+  "product_type": "Agent",
+  "category": "06 人力组织中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-recruitment-management-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "岗位需求、招聘漏斗、渠道、面试安排、候选人阶段和团队分工",
+  "main_output": "招聘流程设计、阶段门槛、任务分派、沟通节奏、指标和风险升级",
+  "package_entries": [
+    "edu-recruitment-management-agent/.codebuddy-plugin/plugin.json",
+    "edu-recruitment-management-agent/agents/edu-recruitment-management-agent.md",
+    "edu-recruitment-management-agent/avatars/expert.png",
+    "edu-recruitment-management-agent/README.md"
+  ]
+}
