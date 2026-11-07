@@ -6,7 +6,7 @@ displayName:
   zh: '招聘流程管理'
 profession:
   en: 'Recruitment Management Agent'
-  zh: ''
+  zh: '教培招聘流程管理专家'
 maxTurns: 50
 ---
 

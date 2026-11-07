@@ -1,6 +1,6 @@
 {
   "name": "edu-recruitment-management-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-step education operations assistant for Recruitment Management Agent.",
   "author": {
     "name": "广州金励泽科技服务有限公司",
@@ -17,7 +17,7 @@
   },
   "profession": {
     "en": "Recruitment Management Agent",
-    "zh": ""
+    "zh": "教培招聘流程管理专家"
   },
   "displayDescription": {
     "en": "A multi-step education agent for Recruitment Management Agent, producing reviewable plans with human checkpoints.",
