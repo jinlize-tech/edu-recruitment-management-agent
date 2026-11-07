@@ -34,7 +34,7 @@
 - `README.md`
 - `skills/edu-recruitment-management-agent-core/SKILL.md`
 - `test-results/v1.0.2.json`
-- `tests/TEST_REPORT-v1.0.2.md`
+- `test-results/TEST_REPORT-v1.0.2.md`
 - `tests/validate_package.ps1`
 - `VERSION`
 
@@ -62,4 +62,5 @@
 - 模型真实运行：`MODEL_RUNTIME_NOT_VERIFIED`
 - WorkBuddy平台验证：`WORKBUDDY_VALIDATION_NOT_IN_SCOPE`
 - 本轮不执行上传、安装、审核或正式发布。
+
 
