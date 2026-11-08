@@ -11,7 +11,7 @@ examples_zh:
 examples_en:
   - 'Check whether my structured input is complete.'
   - 'Organize the supplied business information and flag conflicts.'
-version: 1.0.2
+version: 1.1.0
 author: '广州金励泽科技服务有限公司'
 ---
 
